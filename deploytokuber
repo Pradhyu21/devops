@@ -46,6 +46,7 @@ cd marking
 bash ~/marking/step2_v2.sh
 
 -------------------------------------------------------------------------------------------------------
+//check task 3 for region and modify us-central1
 cd ..
 
 cd valkyrie-app
